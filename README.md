@@ -8,3 +8,4 @@ Tools:
 
 Hasil:
 - Akurasi: 80%
+. 
